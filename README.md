@@ -10,7 +10,7 @@
 <h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
 <img src="./image/about-me.gif?raw=true" height = "220px" align="right">
 <li>
-<b>Name:</b> Huy</li>
+<b>Name:</b> Lan</li>
 <li>
 <b>Gender:</b> Male, boy!
 </li>
